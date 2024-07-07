@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Workit-landing-page-Frontend-mentor/static/css/main.27e7ec46.css",
+    "main.js": "/Workit-landing-page-Frontend-mentor/static/js/main.f077da0c.js",
+    "static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf": "/Workit-landing-page-Frontend-mentor/static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.19cbf8c91fa01353cf81.ttf",
+    "static/media/Manrope-VariableFont_wght.ttf": "/Workit-landing-page-Frontend-mentor/static/media/Manrope-VariableFont_wght.cae461b0196986f4250c.ttf",
+    "static/media/image-hero.webp": "/Workit-landing-page-Frontend-mentor/static/media/image-hero.a7670418285473b2adf5.webp",
+    "static/media/image-founder.webp": "/Workit-landing-page-Frontend-mentor/static/media/image-founder.4bf14138ae0d658ac300.webp",
+    "static/media/logo-dark.svg": "/Workit-landing-page-Frontend-mentor/static/media/logo-dark.ad6b9d98f0dac266885d20b92b9160e6.svg",
+    "static/media/logo-light.svg": "/Workit-landing-page-Frontend-mentor/static/media/logo-light.97dd94888735b443cf813528bd522f08.svg",
+    "static/media/instagram.svg": "/Workit-landing-page-Frontend-mentor/static/media/instagram.133d9df3c7ae80fcb096b58d0fd6f26e.svg",
+    "index.html": "/Workit-landing-page-Frontend-mentor/index.html",
+    "static/media/twitter.svg": "/Workit-landing-page-Frontend-mentor/static/media/twitter.792aca37816291c4327e79d0d80690f0.svg",
+    "static/media/bg-pattern-1.svg": "/Workit-landing-page-Frontend-mentor/static/media/bg-pattern-1.bfa7d51bac5e5ebf6188fc8b02b830bd.svg",
+    "static/media/bg-pattern-2.svg": "/Workit-landing-page-Frontend-mentor/static/media/bg-pattern-2.4c1e835bb8483df3ccf9d1bbe7f8a2b6.svg",
+    "static/media/bg-pattern-3.svg": "/Workit-landing-page-Frontend-mentor/static/media/bg-pattern-3.60897e39e078db73af9ebc8159ab0deb.svg",
+    "static/media/facebook.svg": "/Workit-landing-page-Frontend-mentor/static/media/facebook.eacb176235c044927fbc6112bf468e14.svg",
+    "main.27e7ec46.css.map": "/Workit-landing-page-Frontend-mentor/static/css/main.27e7ec46.css.map",
+    "main.f077da0c.js.map": "/Workit-landing-page-Frontend-mentor/static/js/main.f077da0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e7ec46.css",
+    "static/js/main.f077da0c.js"
+  ]
+}
