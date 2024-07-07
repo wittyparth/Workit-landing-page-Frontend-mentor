@@ -1,13 +1,53 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Manrope;
+    src: url("./assets/fonts/manrope/Manrope-VariableFont_wght.ttf");
+  }
+
+  @font-face {
+    font-family: Fraunces;
+    src: url("./assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf");
+  }
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+  background-color: white;
+  border-radius: 50% 50%;
+  /* z-index: -1; */
+}
+
+/* .shape {
+  position: relative;
+  overflow: hidden;
+  height: 80px;
+}
+
+.shape::before {
+  border-radius: 100%;
+  position: absolute;
+  background: white;
+  right: -200px;
+  left: -200px;
+  top: -200px;
+  content: "";
+  bottom: 0;
+} */
+
+.shape {
+  width: 100%;
+  height: 150px;
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+  background-color: #24053e;
+  overflow-x: hidden;
 }
